@@ -1,0 +1,63 @@
+    h1 {
+        color: #191970;
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    table { 
+        width: 90%;
+        border: 2px solid;
+        border-collapse:  collapse;
+        
+    } 
+
+    th, td {
+        border: 1px solid;
+        border-collapse:  collapse;
+        padding: 10px;
+    .top {text-align: right; font-size: 10pt};
+    .middle {text-align: left; font-size: 20pt; font-weight: bold};
+    .bottom {text-align: left; font-size: 10pt};
+    
+    .top1 {text-align: left; font-size: 10pt};
+    .middle1 {text-align: right; font-size: 20pt; font-weight: bold};
+    .bottom1 {text-align: right; font-size: 10pt};
+    }
+
+    #s4-1, #s4-2, #s5-1, #s5-2, #s6-1, #s6-2, #s7-2, #s8-1, #s8-2, #s9-2, #s10-1, #s10-2, #s11-2, #s12-1, #s12-2, #s13-2,  #st1-1, #st2-1 {
+        background-color: white;
+    }
+    #s4, #s5, #s7, #s9, #s11, #s13 {
+        background-color: rgb(255, 219, 202);
+    }
+
+     #s6, #s8, #s10, #s12, #s7-3, #s7-4, #s9-3, #s9-4, #s11-3, #s11-4, #s13-3, #s13-4, #st1-15, #st2-15 {
+        background-color: rgb(181, 226, 242);
+    }
+    #s3-3, #s3-10, #s4-3, #s4-4, #s5-3, #s5-4, #s6-3, #s6-4, #s8-3, #s8-4, #s10-3, #s10-4, #s12-3, #s12-4 {
+        background-color: rgb(236, 173, 216);
+    }
+    
+    #image_box {
+        padding-right: 5px;
+    }
+
+    #s1-1, #s1-2 {
+        transform: rotate(-90deg);
+        vertical-align: middle;
+    }
+
+    #s1-3 {
+        text-align: center;
+    }
+
+    #st1, #st2 {
+        background-color: rgb(219, 249, 166);
+    }
+
+    #t2 { 
+        width: 100%;
+        border: 2px solid;
+        border-collapse:  collapse;
+        
+    } 
